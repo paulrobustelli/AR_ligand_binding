@@ -4,6 +4,5 @@ Code Accompanying "Small Molecules Targeting the Disordered Transactivation Doma
 Trajectories For This Manuscript Can Be Downloaded Here:
 https://www.dropbox.com/s/fkssh3a4txvmg2m/Zhu_etal_AR_Ligand_Trajectory_Files_12.20.21.zip?dl=0
 
-Download and unzip the trajectory zip into the same folder as the notebooks.
-
+After downloading the trajectories, simply put the folder into the same place as the notebooks, and run.
 
